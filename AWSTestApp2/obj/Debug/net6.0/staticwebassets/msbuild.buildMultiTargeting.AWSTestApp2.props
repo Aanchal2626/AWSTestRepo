@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AWSTestApp2.props" />
+</Project>
